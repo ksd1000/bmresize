@@ -1,2 +1,2 @@
 # bmresize
-Resize you bitmap file
+Resize your bitmap file
